@@ -6,6 +6,8 @@ This is where we organize everything (Link to Notion page): https://www.notion.s
 
  <strong>Our Marketing/ Brand Website (with domain)</strong>
  https://syncycle.app/
+
+ This is the link to our Brand Language & Positioning (outcomes of our Brand Sprint): https://puzzled-strand-126.notion.site/Brand-Language-Positioning-3165a62773748074a6caca834744da14?source=copy_link
  
  <strong>Our Webapplication</strong>
  https://sync-cycle-code.vercel.app/
