@@ -9,8 +9,15 @@ This is where we organize everything (Link to Notion page): https://www.notion.s
 
  This is the link to the outcome of our Brand Sprint, including our positioning, brand language and brand values: https://puzzled-strand-126.notion.site/Brand-Language-Positioning-3165a62773748074a6caca834744da14?source=copy_link
  
- <strong>Our Webapplication</strong>
+ Our Webapplication
  https://sync-cycle-code.vercel.app/
+ ---update: <strong>New webapplication:</strong>
+ https://syncycle.app/ 
+
+ These are the links to our social media accounts: 
+Instagram: https://www.instagram.com/syncycle.app/
+TikTok: https://www.tiktok.com/@syncycle.app
+LinkedIn: https://www.linkedin.com/company/syncycleapp/
 
 This is the link to our market research/ proto persona/ product market fit survey: https://www.notion.so/CycleSync-Agile-Engineering-Management-Group-Work-30d5a627737481808ac9f0cb0ffb487b?source=copy_link 
 
@@ -190,3 +197,19 @@ Based on analysis of the survey responses, here are critical questions that need
 - Rationale: Survey shows price sensitivity but limited options explored - need to validate optimal pricing structure
 - Options: a) Freemium: Free basic features + €3-5/month premium b) Free trial: 30-day free trial then €5/month c) Tiered: Basic free + Premium €3/month + Medical €8/month d) One-time purchase: €30-50 for lifetime access
 - Why Important: Critical for business model validation and revenue strategy</p>
+
+**Scraping Appstores**
+These are my findings from craping app stores for bad reviews: 
+
+- Too many ads to buy premium/ too many ads in General (asking for money)
+- Too Little free Features, too many premium Features 
+- (UI: too crowded), Pop ups and Push notifications 
+- Things that You cannot adjust And the algorithm just tells you (inacurrate predictipns) 
+- Want to invite Partners 
+- Want an offline Mode 
+- Privacy and data selling concerns
+- No option to Turn off the Chat bot
+Major take away: speak to Women Outside a Gym 
+Another takeaway: We need really good UX in the first month to keep them Tracking & on the App 
+
+We should use them in the script and mvp development this week, before talking to further potential costumers. I will adapt the Sprint tasks on Notion accordingly and everything else we can discuss on WhatsApp as usual, just wanted to Share the findings in the group with Stefan.
