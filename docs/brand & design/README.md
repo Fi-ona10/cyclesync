@@ -5,6 +5,7 @@ This folder contains brand, visual identity, and design documentation for Syncyc
 ## Contents
 
 - **GV Brand Sprint - Brand Language & Positioning.md** — Output from the GV brand sprint, covering Syncycle's brand language, tone of voice, and positioning strategy.
+- **Syncycle Pitch Deck.pdf** — Syncycle pitch deck.
 
 ## Key Links
 
